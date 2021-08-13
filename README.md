@@ -18,6 +18,11 @@
 ````
 源码获取地址：[ **点此获取** ](http://www.shuyue.fun/?type=productinfo&id=148)
 
+演示地址：[ **点此查看** ](http://www.csbishe.cn:15038/mooc/)
+
+管理员账号/密码：admin/admin
+用户账号/密码： yuanmamatou/123456
+
 #### 环境需要
 ```
 1.运行环境：最好是java jdk 1.8，我们在这个平台上运行的。其他版本理论上也可以。
