@@ -10,7 +10,11 @@
 2)客户端模块
 本模块分为密钥管理，角色管理，权限管理，个人信息，课程信息等组成。
 3)后台管理模块
-本模块包括用户管理，作品信息管理等。 用户管理：提供管理员查询用户，锁定解锁用户，修改用户信息，充值余额。 课程信息管理：提供管理员增加删除修改功能。 系统日志查看：查看所有系统的动作信息。 访问ip管理：提供对访问IP的管理，可以进行拉黑IP等操作。
+本模块包括用户管理，作品信息管理等。 
+用户管理：提供管理员查询用户，锁定解锁用户，修改用户信息，充值余额。 
+课程信息管理：提供管理员增加删除修改功能。 
+系统日志查看：查看所有系统的动作信息。 
+访问ip管理：提供对访问IP的管理，可以进行拉黑IP等操作。
 ````
 源码获取地址：[ **点此获取** ](http://www.shuyue.fun/?type=productinfo&id=148)
 
@@ -34,7 +38,8 @@
 ```
 1. 使用Navicat或者其它工具，在mysql中创建对应名称的数据库，并导入项目的sql文件；
 2. 将项目中jdbc.properties配置文件中的数据库配置改为自己的配置
-3. 使用IDEA/Eclipse/MyEclipse导入项目，Eclipse/MyEclipse导入时，若为maven项目请选择maven;若为maven项目，导入成功后请执行maven clean;maven install命令，配置tomcat，然后运行；
+3. 使用IDEA/Eclipse/MyEclipse导入项目，Eclipse/MyEclipse导入时，若为maven项目请选择maven;
+若为maven项目，导入成功后请执行maven clean;maven install命令，配置tomcat，然后运行；
 4. 运行项目，输入localhost:8080/xx 登录; xx为项目路径；后台访问地址：localhost:8080/xx/admin
 5. 普通用户：1823544517 测试密码：123654
 管理员账户：admin 管理员密码：admin
